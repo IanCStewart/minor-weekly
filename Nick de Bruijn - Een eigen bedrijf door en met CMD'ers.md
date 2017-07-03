@@ -1,0 +1,50 @@
+# Weekly nerd 16-5-17
+
+> Nick de Bruijn oprichter van Lifely
+
+_Lifely is een agency._
+
+
+
+## Q&A
+
+* het belangrijkste is vertrouwen krijgen en aan de touwtjes mogen trekken.
+
+* werken tegenwoordig met react, graphql en node.js
+
+* bespreekt niet met de klant wat voor techniek ze gaan gebruiken.
+
+* Lastigste is dat je een andere “taal” spreekt. Zo ook als je gaat uitleggen welke techniek je gebruikt.
+
+* iedere startup begint met wordpress’jes maken.
+
+* Neem projecten aan die je niet zou moeten krijgen en fix het gewoon.
+
+* also agency concurreer je met al bestaande programma’s.
+
+* cmd’ers lossen shit gewoon op.
+
+* zet je in op je krachten
+
+* kracht cmd’er is het grotere beeld kunnen zien.
+
+* begin met een onderneming met 1 klein ding oplossen.
+
+* denk niet dat je de wereld bent. Dan ga je alleen maar op je bek.
+
+* een idee is stap 1 van 100. You’ll have a while to go.
+
+
+
+### Meesterproef tips
+
+* werk in sprints
+
+* check all the shits
+
+* werk nauw met je opdrachtgever samen
+
+* gevaarlijkste is om te twijfelen
+
+
+
