@@ -1,3 +1,6 @@
-# My Awesome API
+# Weekly nerd \| Minor web-dev
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+> Every Tuesday during the Minor developers, from some of the biggest agencies in the Netherlands, came to give a talk about interesting and relevant topics in the development world.
+
+
+
