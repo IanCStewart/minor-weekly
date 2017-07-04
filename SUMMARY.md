@@ -1,6 +1,6 @@
 # Summary
 
-## Overview
+## Weekly Nerds
 
 * [Stephan Hay - Q&A session](WN|7-2-17.md)
 * [Titus Wormer - Git & Github](WN|21-2-17.md)
