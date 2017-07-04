@@ -9,3 +9,10 @@
 * [Niels Leenheer- IOT for web-designers](WN|11-4-17.md)
 * [Nick de Bruijn - Een eigen bedrijf door en met CMD'ers](WN|16-5-17.md)
 * [Guido Bouwman - Hacking your coffee machine](WN|23-5-17.md)
+
+## CCSDAY
+
+* [Rachel Nabors - Web Animations](CSSDAY|web-animations.md)
+* [Philip Walton - Polyfilling CSS](CSSDAY|polyfilling-CSS.md)
+* [Ruth John - Web Audio](CSSDAY|web-audio.md)
+* [Bert Bos & Håkon Wium Lie - CSS Reset](CSSDAY|CSS-reset.md)
