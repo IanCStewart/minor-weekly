@@ -3,6 +3,7 @@
 > Every Tuesday during the Minor developers, from some of the biggest agencies in the Netherlands, came to give a talk about interesting and relevant topics in the development world.
 
 _\*\* side note1: we were supposed to sketchnote. My sketchnotes turned out to be bullitpoints and scribbles _ ¯\\\_\(ツ\)\_/¯
+
 _\*\*\* side note2: I ended up missing 3 talks which I did attend so to fix this I added some of my notes from CSSDAY_
 
 ## Weekly Nerds
