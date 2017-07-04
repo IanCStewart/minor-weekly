@@ -4,3 +4,12 @@
 
 _\*\* side note: we were supposed to sketchnote. My sketchnotes turned out to be bullitpoints and scribbles _ ¯\\\_\(ツ\)\_/¯
 
+## Weekly Nerds
+
+* [Stephan Hay - Q&A session](WN|7-2-17.md)
+* [Titus Wormer - Git & Github](WN|21-2-17.md)
+* [Bram Duvigneau - Accessibility](WN|28-3-17.md)
+* [Jasper Moelker - About Graceful degradation](WN|4-4-17.md)
+* [Niels Leenheer- IOT for web-designers](WN|11-4-17.md)
+* [Nick de Bruijn - Een eigen bedrijf door en met CMD'ers](WN|16-5-17.md)
+* [Guido Bouwman - Hacking your coffee machine](WN|23-5-17.md)
