@@ -11,6 +11,7 @@ Simply explained UX is the feeling you get being able to ride a bike. Now to tak
 > Good user experience is the art of a drill going through wood, or a surfboard gliding through water effortlessly. The feelings those give you is unparalleled because they just work, simple as that. Though, in contrast, the shape of that board that helps it make those turns on the wave is good user interface (UI), and the surf wax on the top so you don’t slip off is also good UI. In short, the ENTIRE package is what makes it good UX, whereas good UI is always a very important inner-element of that. ~ _Dain Miller / explaining UX_
 
 ![UX Cloud](./img/UX-cloud.png)
+
 _[O Danny Boy | Interaction designer and author Dan Saffer](http://www.odannyboy.com/)_
 
 For a further explanation of UX here is a good read on it, [Seriously though, what is UX design really?](https://thenextweb.com/dd/2016/08/11/what-the-hell-is-ux-design/#.tnw_MeiaOO7X).
