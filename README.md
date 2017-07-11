@@ -4,7 +4,7 @@
 
 _\*\* side note1: we were supposed to sketchnote. My sketchnotes turned out to be bullitpoints and scribbles _ ¯\\\_\(ツ\)\_/¯
 
-_\*\*\* side note2: I ended up missing 3 talks which I did attend so to fix this I added some of my notes from CSSDAY_
+_\*\*\* side note2: I ended up missing 2 talks notes which I did attend so to fix this I added some of my notes from CSSDAY_
 
 ## Weekly Nerds
 
