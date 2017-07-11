@@ -20,3 +20,4 @@
 ## Articles
 
 * [Bad web UX](bad-web-ux.md)
+* [WoT VS. IoT](wot-vs-iot.md)

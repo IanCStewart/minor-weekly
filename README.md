@@ -26,3 +26,4 @@ _\*\*\* side note2: I ended up missing 3 talks which I did attend so to fix this
 ## Articles
 
 * [Bad web UX](bad-web-ux.html)
+* [WoT VS. IoT](wot-vs-iot.html)
