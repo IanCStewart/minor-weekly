@@ -10,6 +10,7 @@ _\*\*\* side note2: I ended up missing 3 talks which I did attend so to fix this
 
 * [Stephan Hay - Q&A session](WN|7-2-17.html)
 * [Titus Wormer - Git & Github](WN|21-2-17.html)
+* [Peter Paul Koch (PPK) - Browser bloat](WN|28-2-17.html)
 * [Bram Duvigneau - Accessibility](WN|28-3-17.html)
 * [Jasper Moelker - About Graceful degradation](WN|4-4-17.html)
 * [Niels Leenheer- IOT for web-designers](WN|11-4-17.html)
