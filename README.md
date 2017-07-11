@@ -28,3 +28,4 @@ _\*\*\* side note2: I ended up missing 2 talks notes which I did attend so to fi
 
 * [Bad web UX](bad-web-ux.html)
 * [WoT VS. IoT](wot-vs-iot.html)
+* [Web APIs](web-apis.html)
