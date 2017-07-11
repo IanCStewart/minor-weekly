@@ -10,7 +10,7 @@ Simply explained UX is the feeling you get being able to ride a bike. Now to tak
 
 > Good user experience is the art of a drill going through wood, or a surfboard gliding through water effortlessly. The feelings those give you is unparalleled because they just work, simple as that. Though, in contrast, the shape of that board that helps it make those turns on the wave is good user interface (UI), and the surf wax on the top so you don’t slip off is also good UI. In short, the ENTIRE package is what makes it good UX, whereas good UI is always a very important inner-element of that. ~ _Dain Miller / explaining UX_
 
-[UX Cloud](./img/UX-cloud.png)
+![UX Cloud](./img/UX-cloud.png)
 _[O Danny Boy | Interaction designer and author Dan Saffer](http://www.odannyboy.com/)_
 
 For a further explanation of UX here is a good read on it, [Seriously though, what is UX design really?](https://thenextweb.com/dd/2016/08/11/what-the-hell-is-ux-design/#.tnw_MeiaOO7X).
@@ -18,15 +18,15 @@ For a further explanation of UX here is a good read on it, [Seriously though, wh
 ## Examples of bad web UX
 For the next examples I’m going to use a phone number input field. As the pictures will show the user has to do way to much which gives a bad feeling, so bad UX.
 
-[Example 1](./img/example1.gif)
+![Example 1](./img/example1.gif)
 
-[Example 2](./img/example2.gif)
+![Example 2](./img/example2.gif)
 
-[Example 3](./img/example3.gif)
+![Example 3](./img/example3.gif)
 
-[Example 4](./img/example4.gif)
+![Example 4](./img/example4.gif)
 
-[Example 5](./img/example5.gif)
+![Example 5](./img/example5.gif)
 
 Source: [If Satan was a web developer - Album on Imgur](http://imgur.com/gallery/qA4Bu)
 
