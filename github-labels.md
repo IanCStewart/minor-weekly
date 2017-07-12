@@ -30,7 +30,8 @@ Answering those questions should draw out most labels needed within a project. S
 ## Example of labels
 ![label array](./img/label-array.jpg)
 
-_**This is an example; try to find which ones work for your project**_
+> _**This is an example; try to find labels which work for your project**_
+
 Group        | ----------- | ------------------- | ------------- | ----------------- |
 ------------ | ----------- | ------------------- | ------------- | ----------------- |
 Problems     | bugs        | security            |               |                   |
