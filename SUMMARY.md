@@ -24,3 +24,4 @@
 * [WoT VS. IoT](wot-vs-iot.md)
 * [Web APIs](web-apis.md)
 * [Github labels](github-labels.md)
+* [Web animations](web-animations.md)
