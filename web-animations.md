@@ -20,7 +20,7 @@ _Source: [kurokawa wonderland](http://kurokawawonderland.jp/)_
 
 This kind of feedback isn’t only nice to have, it might even be essential, in this world of so called ‘flat’ design. Animating elements in simple, and subtle ways during interaction gives a user the feedback they need.
 
-![button gif](./img/buton.gif)
+![button gif](./img/button.gif)
 
 _Source: [Timeline-Based Animation for the Web with Hype 3](https://webdesign.tutsplus.com/tutorials/timeline-based-animation-for-the-web-with-hype-3--cms-24899)_
 
